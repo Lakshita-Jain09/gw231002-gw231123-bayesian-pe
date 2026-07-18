@@ -1,0 +1,16 @@
+# Raw GWOSC strain data (download separately, see README)
+data/*.hdf5
+
+# Bilby run outputs (posteriors, checkpoints) — large, not for git
+outdir_*/
+*.pickle
+*.resume
+*.h5
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store

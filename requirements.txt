@@ -1,0 +1,9 @@
+bilby>=2.1
+lalsuite
+gwpy
+dynesty
+numpy
+pandas
+matplotlib
+h5py
+corner

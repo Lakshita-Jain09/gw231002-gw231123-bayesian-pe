@@ -1,0 +1,17 @@
+name: gw-pe-imbh
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - matplotlib
+  - h5py
+  - bilby=2.*
+  - lalsuite
+  - gwpy
+  - dynesty
+  - corner
+  - pip
+  - pip:
+      - -r requirements.txt

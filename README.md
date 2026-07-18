@@ -1,7 +1,7 @@
 # Bayesian Parameter Estimation of GW231002 and GW231123: Evidence for Intermediate-Mass Black Holes
 
 Code accompanying my M.Sc. thesis (Physics, MANIT Bhopal, 2026), supervised by
-Dr. Sumit Ghosh and Dr. Sadhana Singh. Full thesis PDF: [`docs/thesis.pdf`](docs/thesis.pdf).
+Dr. Sumit Ghosh and Dr. Sadhana Singh.
 
 ## Summary
 
@@ -36,8 +36,7 @@ src/
   remnant_fits.py remnant-mass/spin/ringdown fits + posterior summary helpers
   run_pe.py       single entry point for any (event, waveform) run
 notebooks/        postprocessing: overlaid corner plots, regenerated summary tables
-results/          summary tables + representative plots per event
-docs/             thesis PDF
+results/          summary tables + individual/combined plots per event
 ```
 
 The original analysis was six separate near-duplicate scripts (one per
@@ -97,8 +96,8 @@ laptop in a reasonable time.
 - Remnant mass/spin/ringdown frequency from NR-calibrated phenomenological
   fits (`src/remnant_fits.py`), not full-waveform ringdown fitting.
 
-Full derivations, priors table, and discussion are in the thesis
-(`docs/thesis.pdf`, Chapters 4–7).
+Full derivations, priors table, and discussion are in the accompanying
+M.Sc. thesis (not included in this repository).
 
 ## Author
 

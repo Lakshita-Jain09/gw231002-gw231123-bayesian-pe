@@ -1,5 +1,0 @@
-time_of_event = 1384782888.7post_trigger_duration = 2
-duration = 8
-analysis_start = time_of_event -6
-
-psd_duration = duration * 32

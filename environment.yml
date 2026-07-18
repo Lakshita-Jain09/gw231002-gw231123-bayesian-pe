@@ -7,7 +7,7 @@ dependencies:
   - pandas
   - matplotlib
   - h5py
-  - bilby=2.*
+  - bilby
   - lalsuite
   - gwpy
   - dynesty

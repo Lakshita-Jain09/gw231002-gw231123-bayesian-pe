@@ -1,0 +1,16 @@
+variable,GW231002,GW231123
+m1 [Msun],93,205
+m2 [Msun],79,100
+chirp_mass [Msun],74.4,127
+mass_ratio,0.87,0.52
+remnant_mass [Msun],167,300
+E_rad [Msun],4.6,8.4
+a_1,0.54,0.83
+a_2,0.5,0.71
+chi_eff,-0.14,0.25
+chi_p,0.5,0.65
+theta_jn [rad],1.53,1.03
+luminosity_distance [Gpc],4.1,2.9
+redshift,0.66,0.5
+ra [rad],3.5,3.32
+dec [rad],0.22,0.37
